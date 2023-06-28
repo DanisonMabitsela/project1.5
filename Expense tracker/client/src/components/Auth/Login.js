@@ -43,13 +43,6 @@ const Login = ({ handleRegisterClick, handleLogin }) => {
           Register
         </span>
       </p>
-      <p>
-        Hi good reviewer I wanted to let you know that my time at Hyperiondev
-        ends on 22 June, and I was hoping if there is anything wrong with the
-        app, could you please score it down on other aspects rather than
-        completeness and requiring resubmission as this would require me to pay
-        for an additional month to make the corrections.<br></br> Thank you
-      </p>
     </div>
   );
 };
